@@ -14,6 +14,7 @@ link to the probability with the original books http://github.com/tensorflow/pro
 |book name|view book|run it|
 |---------|--------|------------|
 |**U2_Celsius_to_Fahrenheit.ipynb**|[nbviewer](https://nbviewer.jupyter.org/github/feapri/tensorflow_practice/blob/master/U2_Celsius_to_Fahrenheit.ipynb)|[Colab](https://drive.google.com/open?id=1U4N3RNLnoCB-LcqMcgaa8soEBOHZe5lP)|
+|**U3_Classifying_Images_of_Clothing.ipynb**|[nbviewer](https://nbviewer.jupyter.org/github/feapri/tensorflow_practice/blob/master/U3_Classifying_Images_of_Clothing.ipynb)|[Colab](https://colab.research.google.com/github/feapri/tensorflow_practice/blob/master/U3_Classifying_Images_of_Clothing.ipynb)|
 |****|[nbviewer](https://nbviewer.jupyter.org/github/feapri/tensorflow_practice/blob/master/)|[Colab]()|
 |****|[nbviewer](https://nbviewer.jupyter.org/github/feapri/tensorflow_practice/blob/master/)|[Colab]()|
 |****|[nbviewer](https://nbviewer.jupyter.org/github/feapri/tensorflow_practice/blob/master/)|[Colab]()|
